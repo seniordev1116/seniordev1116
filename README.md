@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jay Zachary Stanek  
 
-💻 **Senior Software Engineer | Full-Stack | Ruby on Rails | .NET Core | React | Cloud**  
-With **12+ years of experience** delivering scalable, secure, and high-performance applications across **healthcare, finance, SaaS, and industrial sectors**. Proficient in **frontend frameworks, backend architectures, cloud deployments, and AI-powered systems**. Recognized for **enterprise-grade solutions, team mentorship, and Agile collaboration**.  
+💻 **Senior Software Engineer | Full-Stack | PHP/Laravel | Ruby on rails | React | Python/ Django | Gen - AI | ASP.NET | C# | Cloud**  
+With **9+ years of experience** delivering scalable, secure, and high-performance applications across **healthcare, finance, SaaS, and industrial sectors**. Proficient in **frontend frameworks, backend architectures, cloud deployments, and AI-powered systems**. Recognized for **enterprise-grade solutions, team mentorship, and Agile collaboration**.  
 
 ---
 
@@ -45,20 +45,20 @@ With **12+ years of experience** delivering scalable, secure, and high-performan
 
 ## 📂 Featured Projects  
 
-- **HarveyBeef** – Ruby on Rails + React + AWS  
-  [🔗 https://harveybeef.com.au](https://harveybeef.com.au)  
-  Developed and scaled a large-scale production and distribution management system with supplier portals, logistics tracking, and customer engagement.  
-  **Impact:** Improved operational efficiency, automated workflows, and reduced manual reporting by 50%.  
+### **OooWee Business Solutions (2018–2025)**  
+- **Prime Ledge (ERP Solution)** – Multi-tenant ERP with order, inventory, and accounts modules. Optimized SQL queries and caching, reducing report generation by 40%.  
+- **Bank Assistant App** – Multi-tenant banking platform. Built APIs in .NET Core and ensured smooth migration of legacy transactions.  
+- **Employee Directory** – React + .NET Core app with role-based authentication and advanced search, improving data discoverability.  
+- **Grosvenor Connect** – Estate management portal. Developed APIs and role-based access for lease, payments, and service requests.  
 
-- **Givebutter** – React + Ruby on Rails + Tailwind CSS + AWS  
-  [🔗 https://givebutter.com](https://givebutter.com)  
-  Contributed to a fast-growing fundraising platform handling millions in donations annually.  
-  **Impact:** Enhanced frontend UX, optimized backend APIs, and improved CI/CD deployment speed by 30%.  
+### **NextWave Tech Solutions (2016–2018)**  
+- **Trading App** – Fintech platform. Developed APIs in .NET Core and optimized performance, reducing data latency by 35%.  
+- **Tiffin Service Provider** – Subscription ordering platform. Built microservices with .NET Core and React UI for managing menus, deliveries, and payments.  
+- **Edge CTP** – Multi-module platform with CRM, stock, and logistics. Integrated APIs with Shopify and accounting systems.  
 
-- **Industrial Mobile Application for Mining Safety** – .NET Core + Xamarin + Azure  
-  [🔗 https://minearc.com](https://minearc.com)  
-  Mobile-first solution for worker safety compliance and equipment monitoring in the mining sector. Integrated Azure Service Bus and IoT telemetry data.  
-  **Impact:** Improved worker safety compliance by 40% and streamlined incident reporting.  
+### **BlueBay Software (2015–2016)**  
+- **One Market (POS System)** – Built .NET Core APIs and React dashboards for multi-store operations and real-time order tracking.  
+- **Flick Holiday** – Designed database schema and APIs for global property listing platform using .NET Core and Angular.  
 
 ---
 
