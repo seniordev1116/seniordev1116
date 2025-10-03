@@ -56,7 +56,7 @@ With **12+ years of experience** delivering scalable, secure, and high-performan
   **Impact:** Enhanced frontend UX, optimized backend APIs, and improved CI/CD deployment speed by 30%.  
 
 - **Industrial Mobile Application for Mining Safety** – .NET Core + Xamarin + Azure  
-  [🔗 Project Reference](https://minearc.com) 
+  [🔗 https://minearc.com](https://minearc.com) 
   Mobile-first solution for worker safety compliance and equipment monitoring in the mining sector. Integrated Azure Service Bus and IoT telemetry data.  
   **Impact:** Improved worker safety compliance by 40% and streamlined incident reporting.  
 
