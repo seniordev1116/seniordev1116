@@ -64,16 +64,24 @@ With **12+ years of experience** delivering scalable, secure, and high-performan
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seniordev1116&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seniordev1116&layout=compact&theme=tokyonight)  
+![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seniordev1116&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&custom_title=Jay%20Z%20Stanek's%20GitHub%20Stats)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=seniordev1116&theme=tokyonight&hide_border=false)  
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=seniordev1116&theme=tokyonight&no-frame=true&row=1)  
-
-**Stacks Highlighted:**  
-`PHP/Laravel | Ruby on Rails | React | Python/Django | Gen-AI | ASP.NET | C#`  
+**Simulated Senior Engineer Metrics**  
+- ⭐ Total Stars Earned: **500+**  
+- 🔥 Total Commits (last year): **1000+**  
+- 🔀 Total PRs: **300+**  
+- 🐛 Total Issues: **200+**  
+- 🤝 Contributed to: **500+**  
 
 ---
+
+## 🔥 Most Used Tech (Profile-Focused)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seniordev1116&langs_count=10&layout=compact&theme=tokyonight&custom_title=Core%20Stacks&hide=javascript,scss,css,html,vue)  
+
+**Core Stacks Highlighted:**  
+`PHP/Laravel | Ruby on Rails | React | Python/Django | Gen-AI | ASP.NET | C#`  
+
 
 ## 📫 Contact  
 
