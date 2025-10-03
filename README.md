@@ -24,11 +24,22 @@ With **12+ years of experience** delivering scalable, secure, and high-performan
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
 ![AI](https://img.shields.io/badge/-Generative%20AI-412991?logo=openai&logoColor=white)  
 
+**Databases & Messaging**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) 
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)  
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white) 
+![Azure Service Bus](https://img.shields.io/badge/-Azure%20Service%20Bus-0078D4?logo=microsoftazure&logoColor=white)  
+
 **Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white) 
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white) 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white) 
 
 ---
 
