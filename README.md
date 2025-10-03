@@ -46,26 +46,26 @@ With **9+ years of experience** delivering scalable, secure, and high-performanc
 ## 📂 Featured Projects  
 
 ### **OooWee Business Solutions (2018–2025)**  
+- **Givebutter** – [www.givebutter.com](https://givebutter.com) | React, Rails, Tailwind CSS, AWS  
+  Developed a peer-to-peer fundraising and ticketing platform. Deployed via CI/CD pipelines, improving deployment speed by **30%**.  
 - **Prime Ledge (ERP Solution)** – Multi-tenant ERP with order, inventory, and accounts modules. Optimized SQL queries and caching, reducing report generation by 40%.  
 - **Bank Assistant App** – Multi-tenant banking platform. Built APIs in .NET Core and ensured smooth migration of legacy transactions.  
 - **Employee Directory** – React + .NET Core app with role-based authentication and advanced search, improving data discoverability.  
 - **Grosvenor Connect** – Estate management portal. Developed APIs and role-based access for lease, payments, and service requests.
-- **Givebutter** – [https://givebutter.com](https://givebutter.com) | React, Rails, Tailwind CSS, AWS  
-  Developed a peer-to-peer fundraising and ticketing platform. Deployed via CI/CD pipelines, improving deployment speed by **30%**.  
 
 ### **NextWave Tech Solutions (2016–2018)**  
-- **Trading App** – Fintech platform. Developed APIs in .NET Core and optimized performance, reducing data latency by 35%.  
-- **Tiffin Service Provider** – Subscription ordering platform. Built microservices with .NET Core and React UI for managing menus, deliveries, and payments.  
-- **Edge CTP** – Multi-module platform with CRM, stock, and logistics. Integrated APIs with Shopify and accounting systems.
 - **Harvey Beef** – [www.harveybeef.com.au](https://www.harveybeef.com.au) | React, Rails, Stripe  
   Built a secure eCommerce & logistics platform with **Stripe integration**, optimizing backend workflows and reducing order fulfillment issues by **20%**.  
   Developed a **mobile-first React UI** for both customers and delivery staff. 
+- **Trading App** – Fintech platform. Developed APIs in .NET Core and optimized performance, reducing data latency by 35%.  
+- **Tiffin Service Provider** – Subscription ordering platform. Built microservices with .NET Core and React UI for managing menus, deliveries, and payments.  
+- **Edge CTP** – Multi-module platform with CRM, stock, and logistics. Integrated APIs with Shopify and accounting systems.
 
 ### **BlueBay Software (2015–2016)**  
+- **Industrial Mobile Application for Mining Safety** – [www.minearc.com](https://minearc.com) | React, Rails  
+  Created a real-time monitoring app for refuge chambers. Integrated personnel & equipment management, reducing manual tracking errors.  
 - **One Market (POS System)** – Built .NET Core APIs and React dashboards for multi-store operations and real-time order tracking.  
 - **Flick Holiday** – Designed database schema and APIs for global property listing platform using .NET Core and Angular.
-- **Industrial Mobile Application for Mining Safety** – [minearc.com](https://minearc.com) | React, Rails  
-  Created a real-time monitoring app for refuge chambers. Integrated personnel & equipment management, reducing manual tracking errors.  
 
 ---
 
