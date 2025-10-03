@@ -64,8 +64,6 @@ With **12+ years of experience** delivering scalable, secure, and high-performan
 
 ## 📊 GitHub Stats  
 
-![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seniordev1116&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&custom_title=Jay%20Z%20Stanek's%20GitHub%20Stats)  
-
 **Simulated Senior Engineer Metrics**  
 - ⭐ Total Stars Earned: **500+**  
 - 🔥 Total Commits (last year): **1000+**  
