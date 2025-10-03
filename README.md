@@ -83,7 +83,6 @@ With **12+ years of experience** delivering scalable, secure, and high-performan
 
 ## 📫 Contact  
 
-📱 **(814) 351-1584**  
 📧 **jaystanek92.ruby@gmail.com** (Ruby) | **jaystanek92.net@gmail.com** (C#/.NET)  
 🔗 [LinkedIn](https://www.linkedin.com/in/jay-stanek-7b2879354/)  
 
