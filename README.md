@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jay Zachary Stanek  
 
-💻 **Senior Software Engineer | Full-Stack | PHP/Laravel | Ruby on rails | React | Python/ Django | Gen - AI | ASP.NET | C# | Cloud**  
+💻 **Senior Software Engineer | Full-Stack | PHP/Laravel | Ruby on rails | Node.js | React | Python/ Django | Gen - AI | ASP.NET | C# | Cloud**  
 With **9+ years of experience** delivering scalable, secure, and high-performance applications across **healthcare, finance, SaaS, and industrial sectors**. Proficient in **frontend frameworks, backend architectures, cloud deployments, and AI-powered systems**. Recognized for **enterprise-grade solutions, team mentorship, and Agile collaboration**.  
 
 ---
