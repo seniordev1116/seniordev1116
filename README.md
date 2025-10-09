@@ -48,24 +48,41 @@ With **9+ years of experience** delivering scalable, secure, and high-performanc
 ### **OooWee Business Solutions (2018–2025)**  
 - **Givebutter** – [www.givebutter.com](https://givebutter.com) | React, Rails, Tailwind CSS, AWS  
   Developed a peer-to-peer fundraising and ticketing platform. Deployed via CI/CD pipelines, improving deployment speed by **30%**.  
-- **Prime Ledge (ERP Solution)** – Multi-tenant ERP with order, inventory, and accounts modules. Optimized SQL queries and caching, reducing report generation by 40%.  
-- **Bank Assistant App** – Multi-tenant banking platform. Built APIs in .NET Core and ensured smooth migration of legacy transactions.  
-- **Employee Directory** – React + .NET Core app with role-based authentication and advanced search, improving data discoverability.  
-- **Grosvenor Connect** – Estate management portal. Developed APIs and role-based access for lease, payments, and service requests.
+- **Employee Directory** 
+  Tools: ASP.NET Core, Angular, Entity Framework, SQL Server, Azure, Razor Pages
+• Delivered a comprehensive employee information system, improving internal communication by 60%.
+• Designed role-based access controls, search filters, and organization charts.
+• Implemented responsive design that increased mobile user engagement by 45%.
+• Enabled exportable directories, enhancing admin efficiency by 30%.  
+- **Passport Application — (https://gbipassportuat.grosvenor.com)**
+  Tools: ASP.NET Core, Angular, Xamarin, Azure AD, Azure SQL, Web API
+• Created full-stack application to issue and manage employee passports, improving compliance and onboarding efficiency by 40%.
+• Used Azure AD for authentication and implemented Angular/Xamarin for unified web/mobile experience..  
+- **Grosvenor Connect — (https://uat.grosvenorconnect.com)**
+  Tools: ASP.NET Core, Web API, Angular, Xamarin, Azure Functions, Azure SQL, RabbitMQ 
+• Developed backend APIs and participated in key modules (lease, account management, etc.), leading to a 50% reduction in support tickets.
+• Built and maintained Xamarin mobile app, resulting in 35% higher user engagement.
+• Integrated Azure cloud features, achieving 99.9% uptime for all user services..
 
-### **NextWave Tech Solutions (2016–2018)**  
+### **Raval West (2016–2018)**  
 - **Harvey Beef** – [www.harveybeef.com.au](https://www.harveybeef.com.au) | React, Rails, Stripe  
   Built a secure eCommerce & logistics platform with **Stripe integration**, optimizing backend workflows and reducing order fulfillment issues by **20%**.  
   Developed a **mobile-first React UI** for both customers and delivery staff. 
-- **Trading App** – Fintech platform. Developed APIs in .NET Core and optimized performance, reducing data latency by 35%.  
+- **Edge CTP — (https://gbipassportuat.grosvenor.com)** 
+  Tools: ASP.NET Core, Web API, Angular, Azure SQL, WooCommerce API, Shopify API
+• Contributed to API integration with major eCommerce platforms (WooCommerce, Shopify), expanding business reach by 60%.
+• Improved performance by refactoring backend components and reducing API call latency by 25%.  
 - **Tiffin Service Provider** – Subscription ordering platform. Built microservices with .NET Core and React UI for managing menus, deliveries, and payments.  
 - **Edge CTP** – Multi-module platform with CRM, stock, and logistics. Integrated APIs with Shopify and accounting systems.
 
-### **BlueBay Software (2015–2016)**  
+### **Digital Insightz (2015–2016)**  
 - **Industrial Mobile Application for Mining Safety** – [www.minearc.com](https://minearc.com) | React, Rails  
   Created a real-time monitoring app for refuge chambers. Integrated personnel & equipment management, reducing manual tracking errors.  
-- **One Market (POS System)** – Built .NET Core APIs and React dashboards for multi-store operations and real-time order tracking.  
-- **Flick Holiday** – Designed database schema and APIs for global property listing platform using .NET Core and Angular.
+- **Flick Holiday — (https://flickholiday.com/)** 
+  Tools: ASP.NET Core, Angular, Web API, SQL Server, Azure Blob Storage, Identity Server
+• Built the platform from scratch, enabling global home-swapping with secure booking and messaging.
+• Reduced data handling latency by 40% via optimized Web API and stored procedures.
+• Increased booking success rate by 30% after streamlining API communications and UI responsiveness.
 
 ---
 
