@@ -49,17 +49,17 @@ With **9+ years of experience** delivering scalable, secure, and high-performanc
 - **Givebutter** – [www.givebutter.com](https://givebutter.com) | React, Rails, Tailwind CSS, AWS  
   Developed a peer-to-peer fundraising and ticketing platform. Deployed via CI/CD pipelines, improving deployment speed by **30%**.  
 - **Employee Directory** 
-  Tools: ASP.NET Core, Angular, Entity Framework, SQL Server, Azure, Razor Pages
+• Tools: ASP.NET Core, Angular, Entity Framework, SQL Server, Azure, Razor Pages
 • Delivered a comprehensive employee information system, improving internal communication by 60%.
 • Designed role-based access controls, search filters, and organization charts.
 • Implemented responsive design that increased mobile user engagement by 45%.
 • Enabled exportable directories, enhancing admin efficiency by 30%.  
 - **Passport Application — (https://gbipassportuat.grosvenor.com)**
-  Tools: ASP.NET Core, Angular, Xamarin, Azure AD, Azure SQL, Web API
+• Tools: ASP.NET Core, Angular, Xamarin, Azure AD, Azure SQL, Web API
 • Created full-stack application to issue and manage employee passports, improving compliance and onboarding efficiency by 40%.
 • Used Azure AD for authentication and implemented Angular/Xamarin for unified web/mobile experience..  
 - **Grosvenor Connect — (https://uat.grosvenorconnect.com)**
-  Tools: ASP.NET Core, Web API, Angular, Xamarin, Azure Functions, Azure SQL, RabbitMQ 
+• Tools: ASP.NET Core, Web API, Angular, Xamarin, Azure Functions, Azure SQL, RabbitMQ 
 • Developed backend APIs and participated in key modules (lease, account management, etc.), leading to a 50% reduction in support tickets.
 • Built and maintained Xamarin mobile app, resulting in 35% higher user engagement.
 • Integrated Azure cloud features, achieving 99.9% uptime for all user services..
@@ -69,11 +69,9 @@ With **9+ years of experience** delivering scalable, secure, and high-performanc
   Built a secure eCommerce & logistics platform with **Stripe integration**, optimizing backend workflows and reducing order fulfillment issues by **20%**.  
   Developed a **mobile-first React UI** for both customers and delivery staff. 
 - **Edge CTP — (https://gbipassportuat.grosvenor.com)** 
-  Tools: ASP.NET Core, Web API, Angular, Azure SQL, WooCommerce API, Shopify API
+• Tools: ASP.NET Core, Web API, Angular, Azure SQL, WooCommerce API, Shopify API
 • Contributed to API integration with major eCommerce platforms (WooCommerce, Shopify), expanding business reach by 60%.
 • Improved performance by refactoring backend components and reducing API call latency by 25%.  
-- **Tiffin Service Provider** – Subscription ordering platform. Built microservices with .NET Core and React UI for managing menus, deliveries, and payments.  
-- **Edge CTP** – Multi-module platform with CRM, stock, and logistics. Integrated APIs with Shopify and accounting systems.
 
 ### **Digital Insightz (2015–2016)**  
 - **Industrial Mobile Application for Mining Safety** – [www.minearc.com](https://minearc.com) | React, Rails  
