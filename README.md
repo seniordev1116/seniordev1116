@@ -66,7 +66,7 @@ With **9+ years of experience** delivering scalable, secure, and high-performanc
   - Integrated Azure cloud features, achieving 99.9% uptime for all user services..
 
 ### **Raval West (2016–2018)**  
-- **Placer Guides ** – [www.placer-guides.com](https://placer-guides.com) | React, Rails, Laravel
+- **Placer Guides** – [www.placer-guides.com](https://placer-guides.com) | React, Rails, Laravel
   - Developed a secure eCommerce platform with Stripe and PayPal integrations.  
   - Enhanced order management efficiency with Laravel API microservices.
 - **Edge CTP — (https://gbipassportuat.grosvenor.com)** 
