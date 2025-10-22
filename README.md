@@ -46,8 +46,9 @@ With **9+ years of experience** delivering scalable, secure, and high-performanc
 ## 📂 Featured Projects  
 
 ### **OooWee Business Solutions (2018–2025)**  
-- **Givebutter** – [www.givebutter.com](https://givebutter.com) | React, Rails, Tailwind CSS, AWS  
-  - Developed a peer-to-peer fundraising and ticketing platform. Deployed via CI/CD pipelines, improving deployment speed by **30%**.  
+- **Local Labs** – [www.locallabs.com](https://locallabs.com) | React, Rails, Django, AWS  
+  - Built a high-performance data platform integrating Rails and Django services for large-scale processing.
+  - Implemented AWS CI/CD pipelines, improving deployment efficiency by **30%**.
 - **Employee Directory**
   - Tools: ASP.NET Core, Angular, Entity Framework, SQL Server, Azure, Razor Pages
   - Delivered a comprehensive employee information system, improving internal communication by 60%.
@@ -65,17 +66,18 @@ With **9+ years of experience** delivering scalable, secure, and high-performanc
   - Integrated Azure cloud features, achieving 99.9% uptime for all user services..
 
 ### **Raval West (2016–2018)**  
-- **Harvey Beef** – [www.harveybeef.com.au](https://www.harveybeef.com.au) | React, Rails, Stripe  
-  - Built a secure eCommerce & logistics platform with **Stripe integration**, optimizing backend workflows and reducing order fulfillment issues by **20%**.  
-  - Developed a **mobile-first React UI** for both customers and delivery staff. 
+- **Placer Guides ** – [www.placer-guides.com](https://placer-guides.com) | React, Rails, Laravel
+  - Developed a secure eCommerce platform with Stripe and PayPal integrations.  
+  - Enhanced order management efficiency with Laravel API microservices.
 - **Edge CTP — (https://gbipassportuat.grosvenor.com)** 
   - Tools: ASP.NET Core, Web API, Angular, Azure SQL, WooCommerce API, Shopify API
   - Contributed to API integration with major eCommerce platforms (WooCommerce, Shopify), expanding business reach by 60%.
   - Improved performance by refactoring backend components and reducing API call latency by 25%.  
 
 ### **Digital Insightz (2015–2016)**  
-- **Industrial Mobile Application for Mining Safety** – [www.minearc.com](https://minearc.com) | React, Rails  
-  - Created a real-time monitoring app for refuge chambers. Integrated personnel & equipment management, reducing manual tracking errors.  
+- **HaleTale** – [www.haletale.com](https://haletale.com) | React, Rails, Django  
+  - Designed and implemented a real-time operations management system using Rails + Django REST APIs.
+  - Integrated user and asset tracking systems to improve safety and data visibility.
 - **Flick Holiday — (https://flickholiday.com/)** 
   - Tools: ASP.NET Core, Angular, Web API, SQL Server, Azure Blob Storage, Identity Server
   - Built the platform from scratch, enabling global home-swapping with secure booking and messaging.
