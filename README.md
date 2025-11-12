@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jay Zachary Stanek  
 
-💻 **Senior Software Engineer | Full-Stack | PHP/Laravel | Ruby on rails | Node.js | React | Python/ Django | Gen - AI | ASP.NET | C# | Cloud**  
-With **9+ years of experience** delivering scalable, secure, and high-performance applications across **healthcare, finance, SaaS, and industrial sectors**. Proficient in **frontend frameworks, backend architectures, cloud deployments, and AI-powered systems**. Recognized for **enterprise-grade solutions, team mentorship, and Agile collaboration**.  
+💻 **Senior Software Engineer | Full-Stack | PHP/Laravel | Ruby on Rails | Node.js | React | Python/Django | Gen-AI | ASP.NET | C# | Cloud**  
+With **10+ years of experience** designing and delivering scalable, secure, and high-performance applications across **healthcare, finance, SaaS, and industrial sectors**. Adept at **frontend frameworks, backend architectures, cloud deployments, and AI-powered systems**. Known for **enterprise-grade solutions, technical leadership, and Agile collaboration**.
 
 ---
 
@@ -45,44 +45,35 @@ With **9+ years of experience** delivering scalable, secure, and high-performanc
 
 ## 📂 Featured Projects  
 
-### **OooWee Business Solutions (2018–2025)**  
+### **OooWee Business Solutions (2018–Present)**  
 - **Local Labs** – [www.locallabs.com](https://locallabs.com) | React, Rails, Django, AWS  
-  - Built a high-performance data platform integrating Rails and Django services for large-scale processing.
-  - Implemented AWS CI/CD pipelines, improving deployment efficiency by **30%**.
-- **Employee Directory**
-  - Tools: ASP.NET Core, Angular, Entity Framework, SQL Server, Azure, Razor Pages
-  - Delivered a comprehensive employee information system, improving internal communication by 60%.
-  - Designed role-based access controls, search filters, and organization charts.
-  - Implemented responsive design that increased mobile user engagement by 45%.
-  - Enabled exportable directories, enhancing admin efficiency by 30%.  
-- **Passport Application — (https://gbipassportuat.grosvenor.com)**
-  - Tools: ASP.NET Core, Angular, Xamarin, Azure AD, Azure SQL, Web API
-  - Created full-stack application to issue and manage employee passports, improving compliance and onboarding efficiency by 40%.
-  - Used Azure AD for authentication and implemented Angular/Xamarin for unified web/mobile experience..  
-- **Grosvenor Connect — (https://uat.grosvenorconnect.com)**
-  - Tools: ASP.NET Core, Web API, Angular, Xamarin, Azure Functions, Azure SQL, RabbitMQ 
-  - Developed backend APIs and participated in key modules (lease, account management, etc.), leading to a 50% reduction in support tickets.
-  - Built and maintained Xamarin mobile app, resulting in 35% higher user engagement.
-  - Integrated Azure cloud features, achieving 99.9% uptime for all user services..
+  - Built and maintained a high-performance data platform integrating Rails and Django services for large-scale processing.  
+  - Implemented AWS-based CI/CD pipelines with Docker and GitHub Actions, improving deployment efficiency by **30%**.  
+  - Migrated monolithic Rails applications into Django microservices, improving scalability by **35%**.  
+  - Mentored junior developers and introduced structured code review processes.  
+
+---
 
 ### **Raval West (2016–2018)**  
-- **Placer Guides** – [www.placer-guides.com](https://placer-guides.com) | React, Rails, Laravel
+- **Placer Guides** – [www.placer-guides.com](https://placer-guides.com) | React, Rails, Laravel  
   - Developed a secure eCommerce platform with Stripe and PayPal integrations.  
-  - Enhanced order management efficiency with Laravel API microservices.
-- **Edge CTP — (https://gbipassportuat.grosvenor.com)** 
-  - Tools: ASP.NET Core, Web API, Angular, Azure SQL, WooCommerce API, Shopify API
-  - Contributed to API integration with major eCommerce platforms (WooCommerce, Shopify), expanding business reach by 60%.
-  - Improved performance by refactoring backend components and reducing API call latency by 25%.  
+  - Enhanced order management using Laravel API microservices, improving efficiency by **25%**.  
+  - Designed dynamic dashboards with Chart.js and D3.js to visualize business analytics.  
+
+- **B2B Analytics Platform**  
+  - Tools: Rails, Django, React, PostgreSQL, Redis  
+  - Built logistics and analytics modules, reducing operational latency by **40%** through query optimization and caching.  
+
+---
 
 ### **Digital Insightz (2015–2016)**  
 - **HaleTale** – [www.haletale.com](https://haletale.com) | React, Rails, Django  
-  - Designed and implemented a real-time operations management system using Rails + Django REST APIs.
-  - Integrated user and asset tracking systems to improve safety and data visibility.
-- **Flick Holiday — (https://flickholiday.com/)** 
-  - Tools: ASP.NET Core, Angular, Web API, SQL Server, Azure Blob Storage, Identity Server
-  - Built the platform from scratch, enabling global home-swapping with secure booking and messaging.
-  - Reduced data handling latency by 40% via optimized Web API and stored procedures.
-  - Increased booking success rate by 30% after streamlining API communications and UI responsiveness.
+  - Designed and implemented a real-time operations management system using Rails + Django REST APIs.  
+  - Integrated user and asset tracking systems, improving safety and data visibility.  
+
+- **Flick Holiday** – [www.flickholiday.com](https://flickholiday.com) | ASP.NET Core, Angular, Web API, SQL Server, Azure  
+  - Built a global home-swapping and booking platform from scratch with secure messaging and payment processing.  
+  - Reduced backend latency by **40%** through optimized API and database design.  
 
 ---
 
@@ -104,9 +95,13 @@ With **9+ years of experience** delivering scalable, secure, and high-performanc
 **Core Stacks Highlighted:**  
 `PHP/Laravel | Ruby on Rails | React | Python/Django | Gen-AI | ASP.NET | C#`  
 
+---
 
 ## 📫 Contact  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/jay-stanek-7b2879354/)  
+📧 **Email:** jaystanek6@gmail.com  
+📞 **Phone:** +1 (814) 351-1584  
+🔗 **LinkedIn:** [linkedin.com/in/jay-stanek-8820a0341](https://www.linkedin.com/in/jay-stanek-8820a0341/)  
+💻 **GitHub:** [github.com/seniordev1116](https://github.com/seniordev1116)  
 
 ---
