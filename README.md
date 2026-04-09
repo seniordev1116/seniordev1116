@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Jay Zachary Stanek  
+# 👋 Hi, I'm AUGUST WILLIAM BAIL STOBBS  
 
 💻 **Senior Software Engineer | Full-Stack | PHP/Laravel | Ruby on Rails | Node.js | React | Python/Django | Gen-AI | ASP.NET | C# | Cloud**  
-With **10+ years of experience** designing and delivering scalable, secure, and high-performance applications across **healthcare, finance, SaaS, and industrial sectors**. Adept at **frontend frameworks, backend architectures, cloud deployments, and AI-powered systems**. Known for **enterprise-grade solutions, technical leadership, and Agile collaboration**.
+With **18+ years of experience** designing and delivering scalable, secure, and high-performance applications across **healthcare, finance, SaaS, and industrial sectors**. Adept at **frontend frameworks, backend architectures, cloud deployments, and AI-powered systems**. Known for **enterprise-grade solutions, technical leadership, and Agile collaboration**.
 
 ---
 
@@ -45,7 +45,7 @@ With **10+ years of experience** designing and delivering scalable, secure, and 
 
 ## 📂 Featured Projects  
 
-### **OooWee Business Solutions (2018–Present)**  
+### **Aggio (Dec 2022 - Present)**  
 - **Local Labs** – [www.locallabs.com](https://locallabs.com) | React, Rails, Django, AWS  
   - Built and maintained a high-performance data platform integrating Rails and Django services for large-scale processing.  
   - Implemented AWS-based CI/CD pipelines with Docker and GitHub Actions, improving deployment efficiency by **30%**.  
@@ -54,7 +54,7 @@ With **10+ years of experience** designing and delivering scalable, secure, and 
 
 ---
 
-### **Raval West (2016–2018)**  
+### **VAT19 (Dec 2011 – Dec 2022)**  
 - **Placer Guides** – [www.placer-guides.com](https://placer-guides.com) | React, Rails, Laravel  
   - Developed a secure eCommerce platform with Stripe and PayPal integrations.  
   - Enhanced order management using Laravel API microservices, improving efficiency by **25%**.  
@@ -66,7 +66,7 @@ With **10+ years of experience** designing and delivering scalable, secure, and 
 
 ---
 
-### **Digital Insightz (2015–2016)**  
+### **Network Solutions (Jul 2008 – Dec 2011)**  
 - **HaleTale** – [www.haletale.com](https://haletale.com) | React, Rails, Django  
   - Designed and implemented a real-time operations management system using Rails + Django REST APIs.  
   - Integrated user and asset tracking systems, improving safety and data visibility.  
@@ -144,9 +144,9 @@ With **10+ years of experience** designing and delivering scalable, secure, and 
 
 ## 📫 Contact  
 
-📧 **Email:** jaystanek6@gmail.com  
-📞 **Phone:** +1 (814) 351-1584  
-🔗 **LinkedIn:** [linkedin.com/in/jay-stanek-8820a0341](https://www.linkedin.com/in/jay-stanek-8820a0341/)  
+📧 **Email:** augustsdeveloper@gmail.com  
+📞 **Phone:** +1 (314) 266-9161‬  
+🔗 **LinkedIn:** [linkedin.com/in/auguststobbs/](https://www.linkedin.com/in/auguststobbs/)
 💻 **GitHub:** [github.com/seniordev1116](https://github.com/seniordev1116)  
 
 ---
