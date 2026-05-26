@@ -45,7 +45,7 @@ With **18+ years of experience** designing and delivering scalable, secure, and 
 
 ## 📂 Featured Projects  
 
-### **Aggio (Dec 2022 - Present)**  
+### **Whatnot (Dec 2022 - Present)**  
 - **Local Labs** – [www.locallabs.com](https://locallabs.com) | React, Rails, Django, AWS  
   - Built and maintained a high-performance data platform integrating Rails and Django services for large-scale processing.  
   - Implemented AWS-based CI/CD pipelines with Docker and GitHub Actions, improving deployment efficiency by **30%**.  
